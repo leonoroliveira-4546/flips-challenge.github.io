@@ -3,5 +3,5 @@ import angular from '@analogjs/vite-plugin-angular';
 
 export default defineConfig({
   plugins: [angular()],
-  base: '/leonoroliveira-4546/flips-challenge.github.ioflips-challenge.github.io', 
+  base: '/leonoroliveira-4546/flips-challenge.github.io', 
 });
